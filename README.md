@@ -21,7 +21,7 @@ A simple REST API built with PHP for managing a my book collection. This project
 1. Clone or download this repository to your local server directory:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/ReedorReed/php-api
    cd php-api
    ```
 
